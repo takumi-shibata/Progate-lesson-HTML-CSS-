@@ -91,3 +91,24 @@ input,textarea {
   color: #889eab;
   background-color: #dee7ec;
 }
+
+/* フッター */
+footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 200px;
+  padding: 40px;
+}
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  margin-bottom: 20px;
+}
