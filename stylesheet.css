@@ -73,3 +73,21 @@ header {
   margin-top: 30px;
   font-size: 24px;
 }
+
+/* お問い合わせフォーム */
+.info {
+  padding-bottom: 100px;
+}
+
+input,textarea {
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #dee7ec;
+  margin: 10px 0 30px 0;
+}
+
+.btn {
+  font-size: 18px;
+  color: #889eab;
+  background-color: #dee7ec;
+}
